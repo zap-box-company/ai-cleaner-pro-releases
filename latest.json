@@ -1,13 +1,13 @@
 {
-  "build": 5,
+  "build": 6,
   "version": "4.1",
-  "label": "Beta 4",
-  "date": "2026-09-30",
-  "apkUrl": "https://github.com/zap-box-company/ai-cleaner-pro-releases/releases/download/v4.1-beta4/AI-Cleaner-Pro-4.1-beta4.apk",
+  "label": "Beta 5",
+  "date": "2026-10-01",
+  "apkUrl": "https://github.com/zap-box-company/ai-cleaner-pro-releases/releases/download/v4.1-beta5/AI-Cleaner-Pro-4.1-beta5.apk",
   "notes": [
-    "Meme cleaner for WhatsApp, Facebook, Messenger, Instagram, Telegram and more",
-    "GIFs and stickers from chat apps now have their own categories",
-    "Later scans are faster"
+    "Automatic updates: you get a notification when a new version is out, and can update in one tap",
+    "\"Check for updates\" in About & Help",
+    "Anonymous usage and crash reports help us fix problems faster (no personal data is collected)"
   ],
   "mandatory": false
 }
